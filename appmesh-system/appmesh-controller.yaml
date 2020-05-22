@@ -9,4 +9,4 @@ spec:
   chart:
     repository: https://aws.github.io/eks-charts/
     name: appmesh-controller
-    version: 0.6.2
+    version: 0.6.1
